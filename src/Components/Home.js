@@ -7,7 +7,7 @@ const Home=()=>{
                 <div className="row">
                     <div className="col-lg-8 offset-lg-2 my-6"></div>
                     <p className="lead">
-                    Lorem ipsum is typically a corrupted version of De finibus bonorum et malorum, a 1st-century BC text by the Roman statesman and philosopher Cicero, with words altered, added, and removed to make it nonsensical and improper Latin. The first two words themselves are a truncation of dolorem ipsum 
+                    Explore your favorite movies or TV shows with our search feature.
                     </p>
                 </div>
             </div>
